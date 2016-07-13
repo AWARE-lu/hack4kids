@@ -3,6 +3,7 @@
 #DATE
 
 #DURATION
+3h00
 
 #AGENDA
 
