@@ -14,36 +14,22 @@
 
 #WORKSHOPS CONTENT
 ##1 - Light Painting
-Photo Art using light
+Photo Art using light.
+Children work as a group, all get a print-out of their drawing.
 ##2 - Pixel-Art
-Post-it based pixel design
+Post-it based pixel design.
 ##3 - Human Robotron
-Children work in pair to program each other in order to solve a puzzle
+Children work in pair to program each other in order to solve a puzzle.
 ##4 - Drone race
-Children program a drone
+Children program a drone.
 ##5 - Pseudo-code dance
-A code-based Choregraphie
+A code-based Choregraphie.
 
 #Material needed 
 
 ##Workshop material
 
--	White papers
--	Thick scotch tape 
--	Thin scotch tape 
--	Pens 
--	Pens for white boards 
--	White boards 
--	Cardboard boxes 
--	BEE SECURE threads for drone race 
--	PPTs (for all presentations)
--	Small “gommettes” (small round stickers) for network game
--	Envelops
--	To buy : bananas, post-it
--	Special papers for photo printer (light painting workshop)
--	Lock picking material
--	Plastic for 3D printer
--	Painting
+-	TBD
 
 ##Material to be printed for children
 
@@ -51,23 +37,14 @@ A code-based Choregraphie
 
 ##Electronic material
 
--	3D printer (demo)
--	Video-projector
--	Drones 
--	Chargers for drones
--	HDMI cable
+-	TBD
 
 ##Camera / material
 
--	Camera
--	LEDs
--	Chargers for LEDs
--	Foot to fix the camera
--	Small printer for photos
--	SD cards
+-	TBD
 
 ##Transport material
 
--	Trolleys
+-	TBD
 
 
