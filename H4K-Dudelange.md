@@ -12,11 +12,16 @@
 | HH.MM AM - HH.MM AM | TOPIC | SPEAKER/LEAD |
 
 #WORKSHOPS CONTENT
-##1 - Light Painting (Photo Art using light)
-##2 - Pixel-Art (Post-it based pixel design)
-##3 - Human Robotron (Children work in pair to program each other in order to solve a puzzle)
-##4 - Drone race (Children program a drone)
-##5 - Pseudo-code dance (Coded Choregraphie)
+##1 - Light Painting
+Photo Art using light
+##2 - Pixel-Art
+Post-it based pixel design
+##3 - Human Robotron
+Children work in pair to program each other in order to solve a puzzle
+##4 - Drone race
+Children program a drone
+##5 - Pseudo-code dance
+A code-based Choregraphie
 
 #Material needed 
 
