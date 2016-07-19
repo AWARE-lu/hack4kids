@@ -29,22 +29,58 @@ A code-based Choregraphie.
 
 ##Workshop material
 
--	TBD
+- Scissors
+- White Papers
+- Thick scotch tape
+- Pens
+- Felt-tip markers for white board (marqueurs)
+- White boards
+- Chalk stick
+- Cardboard boxes
+- BEE SECURE threads for drones
+- Multicolor post-it
+- Special papers for photo printer (light painting)
+- Highlighters (with the same colors as the post-it)
+- Plastic for 3 D printer
+- Painting
+
 
 ##Material to be printed for children
 
--	TBD
+- Templates for Pixel Art
+- Templates for Robotron
+- Templates for pseudo-code dance
+- Direction panels
 
 ##Electronic material
 
--	TBD
+- Pen drives
+- 3D printer
+- Drones
+- Tablets for drones
+- Chargers for drones
+- Mini POV 4 Kit
+
 
 ##Camera / material
 
--	TBD
+- Camera   
+- Foot to fix the camera
+- LEDs
+- Chargers for LEDs
+- Small printer for photos
+- SD cards
+
 
 ##Transport material
 
--	TBD
+Trolleys
+
+##Communication material
+
+- Roll-up Securitymadein.lu
+- Roll-up H4K
+- Small keys to be given as gifts
+- T-shirts 
 
 
